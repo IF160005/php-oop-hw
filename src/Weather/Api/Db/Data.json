@@ -6,6 +6,12 @@
   {"date": "2018-11-12", "dayTemp": 12, "nightTemp": 0, "sky": 1},
   {"date": "2018-11-13", "dayTemp": 15, "nightTemp": 6, "sky": 2},
   {"date": "2018-11-14", "dayTemp": 17, "nightTemp": 4, "sky": 2},
-  {"date": "2018-11-15", "dayTemp": 20, "nightTemp": 11, "sky": 1}
+  {"date": "2018-11-15", "dayTemp": 20, "nightTemp": 11, "sky": 1},
+  {"date": "2018-11-16", "dayTemp": 20, "nightTemp": 11, "sky": 1},
+  {"date": "2018-11-17", "dayTemp": 20, "nightTemp": 11, "sky": 1},
+  {"date": "2018-11-18", "dayTemp": 20, "nightTemp": 11, "sky": 1}
+
+
+
 ]
 
